@@ -1,0 +1,2 @@
+# Problem: Remove noisy, repetitive instruction messages from PRs
+show_instructions: false
