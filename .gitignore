@@ -36,3 +36,14 @@ out/
 eslintcache
 .cache/
 .tmp/
+
+# === Additional Logs ===
+npm-debug.log*
+yarn-debug.log*
+
+# === Turborepo ===
+.turbo/
+
+# === Deployment Platforms ===
+.vercel/
+.netlify/
